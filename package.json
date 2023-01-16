@@ -1,0 +1,16 @@
+{
+  "name": "rnrc_docs",
+  "version": "1.0.0",
+  "description": "An essential documentation for React Native Reanimated Carousel ",
+  "main": "index.js",
+  "repository": "https://github.com/dohooo/rnrc-documentation-website.git",
+  "author": "dohoo & oliverloops",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.2",
+    "nextra": "^2.2.3",
+    "nextra-theme-docs": "^2.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
